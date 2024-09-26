@@ -12,4 +12,4 @@ Hello! I'm ***Waqar***, a student at FAST NUCES Karachi Campus. I have a strong 
 - 📧 **Contact**: [waqarsanai58@gmail.com] 
 
 ## Repository Content
-This repository contains LAB tasks of C language and Flowcharts 
+This repository contains LAB Examples and Problems of C language.
